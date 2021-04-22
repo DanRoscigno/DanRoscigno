@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanRoscigno
-- 👀 I’m interested in Ops: IT Ops, DevOps, Observability
+- 👀 I’m interested in Ops: IT Ops, DevOps, Observability (and I mess around with D&D, 3D printing, and CNC)
 - 📫 How to reach me dan at roscigno dot com
 
 <!---
